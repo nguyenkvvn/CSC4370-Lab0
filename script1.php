@@ -1,9 +1,10 @@
 <html>
  <head>
-  <title>Lab 01</title>
+  <title>Lab 01 - Kevin Vinh Nguyen</title>
  </head>
  <body>
-   <h1>Lab 0
+   <h1>Lab 0</h1>
+   <p>Source code can be viewed <a href="https://github.com/nguyenkvvn/CSC4370-Lab0">here</a>.</p>
 
    <h2>Q1. Display the text "Good morning, Dave", said HAL." as an HTML paragraph in italics.</h2>
    <?php echo '<p><i>"Good morning, Dave", said HAL."</i></p>'; ?>
